@@ -1,0 +1,16 @@
+G:\PRACTICE\BOM\BOQ\bin\Debug\BOQ.exe.config
+G:\PRACTICE\BOM\BOQ\bin\Debug\BOQ.exe
+G:\PRACTICE\BOM\BOQ\bin\Debug\BOQ.pdb
+G:\PRACTICE\BOM\BOQ\bin\Debug\BOQ.xml
+G:\PRACTICE\BOM\BOQ\obj\Debug\BOQ.vbprojAssemblyReference.cache
+G:\PRACTICE\BOM\BOQ\obj\Debug\Interop.SldWorks.dll
+G:\PRACTICE\BOM\BOQ\obj\Debug\Interop.SwCommands.dll
+G:\PRACTICE\BOM\BOQ\obj\Debug\Interop.SwConst.dll
+G:\PRACTICE\BOM\BOQ\obj\Debug\Interop.SWUtilities.dll
+G:\PRACTICE\BOM\BOQ\obj\Debug\BOQ.vbproj.ResolveComReference.cache
+G:\PRACTICE\BOM\BOQ\obj\Debug\BOQ.Resources.resources
+G:\PRACTICE\BOM\BOQ\obj\Debug\BOQ.vbproj.GenerateResource.cache
+G:\PRACTICE\BOM\BOQ\obj\Debug\BOQ.vbproj.CoreCompileInputs.cache
+G:\PRACTICE\BOM\BOQ\obj\Debug\BOQ.exe
+G:\PRACTICE\BOM\BOQ\obj\Debug\BOQ.xml
+G:\PRACTICE\BOM\BOQ\obj\Debug\BOQ.pdb
