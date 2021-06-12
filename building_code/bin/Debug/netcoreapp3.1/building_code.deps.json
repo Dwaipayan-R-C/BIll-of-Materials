@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "building_code/1.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "12.0.3",
+          "SolidWorks.Interop.sldworks": "27.3.0",
+          "SolidWorks.Interop.swconst": "27.3.0"
+        },
+        "runtime": {
+          "building_code.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "SolidWorks.Interop.sldworks/27.3.0": {
+        "runtime": {
+          "lib/SolidWorks.Interop.sldworks.dll": {
+            "assemblyVersion": "27.3.0.52",
+            "fileVersion": "27.3.0.52"
+          }
+        }
+      },
+      "SolidWorks.Interop.swconst/27.3.0": {
+        "runtime": {
+          "lib/SolidWorks.Interop.swconst.dll": {
+            "assemblyVersion": "27.3.0.52",
+            "fileVersion": "27.3.0.52"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "building_code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "SolidWorks.Interop.sldworks/27.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TB1rThqYrLA6Zf4YsH/Dk8UX4fQWO84CzxxUWM9J7nWy7FcBBHBZ/rfqU47aD5XVsqgVHabTp7kDCHCKAezeLg==",
+      "path": "solidworks.interop.sldworks/27.3.0",
+      "hashPath": "solidworks.interop.sldworks.27.3.0.nupkg.sha512"
+    },
+    "SolidWorks.Interop.swconst/27.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WNPUf/s4HNQKfD66N9miuaA0hye7Bv5/a3zxSeAm4Eifvud5P7bkcNvhihd/VC4ZJC+WSJ4ypUEikhrbF/EYiQ==",
+      "path": "solidworks.interop.swconst/27.3.0",
+      "hashPath": "solidworks.interop.swconst.27.3.0.nupkg.sha512"
+    }
+  }
+}

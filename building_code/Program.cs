@@ -11,13 +11,11 @@ namespace building_code
 {
     class Program
     {
-        public async Task<object> solidworksMainMethodCs(string strCalledInJs)
+        static void Main ()
         {
-
             SldWorks swApp = (SldWorks) Activator.CreateInstance(Type.GetTypeFromProgID("SldWorks.Application"));
             ModelDoc2 swModelDrawing = (ModelDoc2) swApp.ActiveDoc;
-            Console.WriteLine(swModelDrawing.GetType());
-            return null;
+            Console.WriteLine(swModelDrawing.GetType());            
 
         }
     }

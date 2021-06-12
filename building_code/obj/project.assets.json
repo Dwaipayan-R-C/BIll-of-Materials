@@ -180,11 +180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\PRACTICE\\BOM\\building_code\\building_code.csproj",
+      "projectUniqueName": "G:\\PRACTICE\\BOM\\building_code\\Github\\BOM\\building_code\\building_code.csproj",
       "projectName": "building_code",
-      "projectPath": "G:\\PRACTICE\\BOM\\building_code\\building_code.csproj",
+      "projectPath": "G:\\PRACTICE\\BOM\\building_code\\Github\\BOM\\building_code\\building_code.csproj",
       "packagesPath": "C:\\Users\\Dwaipayan\\.nuget\\packages\\",
-      "outputPath": "G:\\PRACTICE\\BOM\\building_code\\obj\\",
+      "outputPath": "G:\\PRACTICE\\BOM\\building_code\\Github\\BOM\\building_code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dwaipayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
