@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "4PaxhYCfF9E9pGHgLpjfDWj1/wteIByTBmyAPk97PWqKVaLXHkE4ipYVu92bxHzOyIxH7p/ZIMrdxpIFZDYZOQ==",
+  "success": true,
+  "projectFilePath": "G:\\PRACTICE\\BOM\\building_code\\building_code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dwaipayan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dwaipayan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Dwaipayan\\.nuget\\packages\\solidworks.interop.sldworks\\27.3.0\\solidworks.interop.sldworks.27.3.0.nupkg.sha512",
+    "C:\\Users\\Dwaipayan\\.nuget\\packages\\solidworks.interop.swconst\\27.3.0\\solidworks.interop.swconst.27.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SolidWorks.Interop.sldworks 27.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "SolidWorks.Interop.sldworks",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SolidWorks.Interop.swconst 27.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "SolidWorks.Interop.swconst",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

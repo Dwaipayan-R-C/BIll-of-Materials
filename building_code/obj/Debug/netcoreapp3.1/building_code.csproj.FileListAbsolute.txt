@@ -1,0 +1,4 @@
+G:\PRACTICE\BOM\building_code\obj\Debug\netcoreapp3.1\building_code.csprojAssemblyReference.cache
+G:\PRACTICE\BOM\building_code\obj\Debug\netcoreapp3.1\building_code.AssemblyInfoInputs.cache
+G:\PRACTICE\BOM\building_code\obj\Debug\netcoreapp3.1\building_code.AssemblyInfo.cs
+G:\PRACTICE\BOM\building_code\obj\Debug\netcoreapp3.1\building_code.csproj.CoreCompileInputs.cache
