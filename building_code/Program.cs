@@ -15,7 +15,7 @@ namespace building_code
         {
             SldWorks swApp = (SldWorks) Activator.CreateInstance(Type.GetTypeFromProgID("SldWorks.Application"));
             ModelDoc2 swModelDrawing = (ModelDoc2) swApp.ActiveDoc;
-            Console.WriteLine(swModelDrawing.GetType());            
+                   
 
         }
     }
